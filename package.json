@@ -1,0 +1,27 @@
+{
+  "name": "custom-errors-lib",
+  "version": "1.0.1",
+  "description": "Manejo de errores custom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayac07/Custom-Errors.git"
+  },
+  "keywords": [
+    "custom",
+    "errors",
+    "js"
+  ],
+  "author": "Ayac Valdez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayac07/Custom-Errors/issues"
+  },
+  "homepage": "https://github.com/Ayac07/Custom-Errors#readme",
+  "dependencies": {
+    "log4js": "^6.9.1"
+  }
+}
